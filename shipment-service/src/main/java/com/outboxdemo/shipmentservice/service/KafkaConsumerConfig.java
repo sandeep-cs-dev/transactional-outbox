@@ -1,4 +1,4 @@
-package com.outbox.service.shipment;
+package com.outboxdemo.shipmentservice.service;
 
 import org.apache.kafka.clients.admin.AdminClient;
 import org.apache.kafka.clients.admin.KafkaAdminClient;

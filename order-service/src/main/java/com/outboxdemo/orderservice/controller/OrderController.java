@@ -1,7 +1,7 @@
-package com.outbox.service.order.controller;
+package com.outboxdemo.orderservice.controller;
 
-import com.outbox.service.order.model.Order;
-import com.outbox.service.order.service.OrderService;
+import com.outboxdemo.orderservice.model.Order;
+import com.outboxdemo.orderservice.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

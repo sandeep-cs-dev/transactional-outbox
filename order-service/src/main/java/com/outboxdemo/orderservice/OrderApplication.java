@@ -1,4 +1,4 @@
-package com.outbox.service.order;
+package com.outboxdemo.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

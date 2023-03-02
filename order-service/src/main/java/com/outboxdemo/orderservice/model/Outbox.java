@@ -1,6 +1,6 @@
-package com.outbox.service.order.model;
+package com.outboxdemo.orderservice.model;
 
-import com.outbox.service.order.JsonToMapConverter;
+import com.outboxdemo.orderservice.JsonToMapConverter;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

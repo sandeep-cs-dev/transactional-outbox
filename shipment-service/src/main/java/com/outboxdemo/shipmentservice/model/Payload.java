@@ -1,4 +1,4 @@
-package com.outbox.service.shipment.model;
+package com.outboxdemo.shipmentservice.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,6 +1,6 @@
-package com.outbox.service.order.repository;
+package com.outboxdemo.orderservice.repository;
 
-import com.outbox.service.order.model.Order;
+import com.outboxdemo.orderservice.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

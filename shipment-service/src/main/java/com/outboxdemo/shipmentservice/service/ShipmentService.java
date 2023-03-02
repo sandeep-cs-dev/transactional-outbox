@@ -1,9 +1,9 @@
-package com.outbox.service.shipment;
+package com.outboxdemo.shipmentservice.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.outbox.service.shipment.model.Order;
-import com.outbox.service.shipment.model.Payload;
+import com.outboxdemo.shipmentservice.model.Order;
+import com.outboxdemo.shipmentservice.model.Payload;
 import lombok.RequiredArgsConstructor;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.kafka.annotation.KafkaListener;

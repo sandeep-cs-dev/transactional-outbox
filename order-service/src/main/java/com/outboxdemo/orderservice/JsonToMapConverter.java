@@ -1,4 +1,4 @@
-package com.outbox.service.order;
+package com.outboxdemo.orderservice;
 
 import java.io.IOException;
 import java.util.Map;

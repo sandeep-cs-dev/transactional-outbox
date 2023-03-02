@@ -1,4 +1,4 @@
-package com.outbox.service.shipment;
+package com.outboxdemo.shipmentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

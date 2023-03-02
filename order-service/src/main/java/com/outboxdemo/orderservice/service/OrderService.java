@@ -1,10 +1,10 @@
-package com.outbox.service.order.service;
+package com.outboxdemo.orderservice.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.outbox.service.order.model.Order;
-import com.outbox.service.order.model.Outbox;
-import com.outbox.service.order.repository.OrderRepository;
-import com.outbox.service.order.repository.OutboxRepository;
+import com.outboxdemo.orderservice.model.Order;
+import com.outboxdemo.orderservice.model.Outbox;
+import com.outboxdemo.orderservice.repository.OrderRepository;
+import com.outboxdemo.orderservice.repository.OutboxRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
